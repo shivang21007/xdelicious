@@ -1,7 +1,7 @@
 
 ///require('dotenv').config();
 
-const API_KEY = '7004ee6312344b348cf7a8bd50435420'
+const API_KEY = 'e4a32db3b8b3459b87768ea4503c7a03'
 
 // const API_KEY = `${process.env.secret}`; 
 // //console.log(API_KEY);

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from "styled-components";
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 import { Link } from 'react-router-dom';
-import { API_KEY } from '../apikey';
+import { API_KEY } from '../pages/apikey';
 
 
 import '@splidejs/react-splide/css';

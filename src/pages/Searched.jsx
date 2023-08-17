@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import styled from "styled-components";
 import { Link } from 'react-router-dom';
-import { API_KEY } from '../apikey';
+import { API_KEY } from '../pages/apikey';
 
 function Searched() {
 

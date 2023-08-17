@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { motion } from 'framer-motion';
 import {useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import { API_KEY } from '../apikey';
+import { API_KEY } from '../pages/apikey';
 
 function Cuisine() {
     const [cuisine, setCuisine] = useState([]);
