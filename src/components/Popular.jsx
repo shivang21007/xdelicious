@@ -43,10 +43,10 @@ function Popular() {
 
         <Splide options={{
           perPage: 4,
-          arrows: false,
+          arrows: true,
           pagination: false,
           drag: 'free',
-          gap: "4rem",
+          gap: "3rem",
         }}
         >
           {popular.map((recipe) => {
